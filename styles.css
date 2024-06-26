@@ -1,0 +1,30 @@
+img {
+    height: 300px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+
+h1, h2, p{
+    text-align: center;
+}
+
+.link-container {
+    text-align: center;
+    /* This centers the content inside the container */
+}
+
+.home {
+    display: inline-block;
+    /* This makes the link behave like a block-level element */
+}
+
+h1 {
+    font-family: fantasy;
+}
